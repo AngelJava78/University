@@ -487,6 +487,13 @@
             </summary>
             <param name="documentPath">The physical path to XML document.</param>
         </member>
+        <member name="M:University.Api.Controllers.AccountController.Login(University.BL.Dtos.LoginDTO)">
+            <summary>
+            Realiza la authenticación del usuario
+            </summary>
+            <param name="loginDTO"></param>
+            <returns></returns>
+        </member>
         <member name="M:University.Api.Controllers.CoursesController.GetAll">
             <summary>
             Get all courses

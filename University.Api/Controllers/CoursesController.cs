@@ -15,6 +15,7 @@ using University.BL.Services.Implements;
 
 namespace University.Api.Controllers
 {
+    //[Authorize]
     public class CoursesController : ApiController
     {
         private readonly IMapper mapper;
@@ -30,6 +31,7 @@ namespace University.Api.Controllers
         /// </summary>
         /// <returns>Course List</returns>
         /// <response code="200">Ok. Return object list</response>
+        
         [HttpGet]
         [ResponseType(typeof(IEnumerable<CourseDTO>))]
         public async Task<IHttpActionResult> GetAll()
@@ -88,7 +90,7 @@ namespace University.Api.Controllers
             {
                 return BadRequest(ModelState);
             }
-            if(courseDTO.CourseID != id)
+            if (courseDTO.CourseID != id)
             {
                 return BadRequest();
             }
@@ -104,7 +106,7 @@ namespace University.Api.Controllers
 
                 course = mapper.Map<Course>(courseDTO);
                 course = await service.Update(course);
-                
+
                 return Ok(course);
             }
             catch (Exception ex)
@@ -123,7 +125,7 @@ namespace University.Api.Controllers
             try
             {
                 var course = await service.GetById(id);
-                if(course == null)
+                if (course == null)
                 {
                     return NotFound();
                 }

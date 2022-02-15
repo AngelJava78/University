@@ -118,3 +118,14 @@ C:\Users\Ajavier\source\repos\University\University.Api\bin\AutoMapper.xml
 C:\Users\Ajavier\source\repos\University\University.Api\bin\University.Api.xml
 C:\Users\Ajavier\source\repos\University\University.Api\bin\Swashbuckle.Core.dll
 C:\Users\Ajavier\source\repos\University\University.Api\bin\WebActivatorEx.dll
+C:\Users\Ajavier\source\repos\University\University.Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ajavier\source\repos\University\University.Api\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ajavier\source\repos\University\University.Api\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ajavier\source\repos\University\University.Api\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ajavier\source\repos\University\University.Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Ajavier\source\repos\University\University.Api\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Ajavier\source\repos\University\University.Api\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ajavier\source\repos\University\University.Api\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ajavier\source\repos\University\University.Api\bin\System.Web.Cors.dll
+C:\Users\Ajavier\source\repos\University\University.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Ajavier\source\repos\University\University.Api\bin\System.Web.Http.Cors.xml

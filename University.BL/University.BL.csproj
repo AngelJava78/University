@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\UniversityContext.cs" />
+    <Compile Include="Dtos\LoginDTO.cs" />
     <Compile Include="Dtos\CourseDTO.cs" />
     <Compile Include="Dtos\EnrollmentDTO.cs" />
     <Compile Include="Dtos\Grade.cs" />

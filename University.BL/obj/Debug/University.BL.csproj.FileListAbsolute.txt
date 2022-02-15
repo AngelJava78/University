@@ -11,3 +11,4 @@ C:\Users\Ajavier\source\repos\University\University.BL\obj\Debug\University.BL.d
 C:\Users\Ajavier\source\repos\University\University.BL\obj\Debug\University.BL.pdb
 C:\Users\Ajavier\source\repos\University\University.BL\bin\Debug\AutoMapper.dll
 C:\Users\Ajavier\source\repos\University\University.BL\bin\Debug\AutoMapper.xml
+C:\Users\Ajavier\source\repos\University\University.BL\obj\Debug\University.BL.csproj.AssemblyReference.cache
